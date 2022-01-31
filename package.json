@@ -1,0 +1,18 @@
+{
+  "main": "index.tsx",
+  "dependencies": {
+    "antd": "4.18.5",
+    "card": "2.5.4",
+    "chart.js": "^3.6.0",
+    "faker": "5.5.3",
+    "react": "17.0.2",
+    "react-chartjs-2": "^4.0.0",
+    "react-dom": "17.0.2",
+    "react-scripts": "5.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.38",
+    "@types/react-dom": "17.0.11",
+    "typescript": "4.5.4"
+  }
+}
